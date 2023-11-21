@@ -1,0 +1,13 @@
+/home/wtc/submission-calculator/Calculators/bin/Debug/net6.0/Calculators.deps.json
+/home/wtc/submission-calculator/Calculators/bin/Debug/net6.0/Calculators.dll
+/home/wtc/submission-calculator/Calculators/bin/Debug/net6.0/Calculators.pdb
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.AssemblyReference.cache
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.GeneratedMSBuildEditorConfig.editorconfig
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.AssemblyInfoInputs.cache
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.AssemblyInfo.cs
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.CoreCompileInputs.cache
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.csproj.Fody.CopyLocal.cache
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.dll
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/refint/Calculators.dll
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/Calculators.pdb
+/home/wtc/submission-calculator/Calculators/obj/Debug/net6.0/ref/Calculators.dll
